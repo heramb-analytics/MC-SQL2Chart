@@ -17,8 +17,8 @@ from chat2plot.chat2plot import Chat2Vega
 sys.path.append("../../")
 
 # From here down is all the StreamLit UI.
-st.set_page_config(page_title="Chat2Plot Demo", page_icon=":robot:", layout="wide")
-st.header("Chat2Plot Demo")
+st.set_page_config(page_title="Mastercard Demo", page_icon=":robot:", layout="wide")
+st.header("Mastercard Demo")
 
 
 def initialize_logger():
